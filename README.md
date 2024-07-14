@@ -1,2 +1,2 @@
 # My-Calculator
-This is my GUI based project on python.
+This is my first GUI based project on python.
